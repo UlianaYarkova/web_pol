@@ -1,8 +1,8 @@
 <template>
   <v-app>
     <v-layout>
-      <v-app-bar color="primary" density="compact">
-        <v-app-bar-title>Beautiful WEB</v-app-bar-title>
+      <v-app-bar color="black" density="compact">
+        <v-app-bar-title>Beauty Lounge</v-app-bar-title>
       </v-app-bar>
       <v-main>
         <router-view />
@@ -16,7 +16,7 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
 }
 

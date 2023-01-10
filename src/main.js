@@ -12,5 +12,22 @@ const vuetify = createVuetify({
   components,
   directives,
 })
+  
+  // Vuex
+  const store = new Vuex.Store({
+    state: {
+      services:{}
+    },
+    getters: {
+      services(state){return state.services}
+    },
+    mutations: {
+        getData (state) {
+            axios.get('./main.json')
+            .then(res => state.services = res.data)
+            .catch(err => console.log(err));
+        }
+    }
+  })
 
 createApp(App).use(router).use(vuetify).use(VueAxios, axios).mount('#app')
