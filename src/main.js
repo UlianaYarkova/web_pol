@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
+import Vuex from 'vuex'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 import 'vuetify/styles'
@@ -13,21 +14,35 @@ const vuetify = createVuetify({
   directives,
 })
   
-  // Vuex
+
   const store = new Vuex.Store({
     state: {
-      services:{}
+      services: [],
     },
     getters: {
-      services(state){return state.services}
+      services(state){
+        return state.services
+      },
+      getAboutDataById: state => id => {
+        const service = state.services.find(el => {
+          return el.id == id;
+        })
+        return service
+      }
     },
     mutations: {
-        getData (state) {
-            axios.get('./main.json')
-            .then(res => state.services = res.data)
-            .catch(err => console.log(err));
-        }
-    }
+      getData (state) {
+          return axios.get('/main.json')
+          .then(res => state.services = res.data)
+          .catch(err => console.log(err))
+      },
+    },
   })
 
-createApp(App).use(router).use(vuetify).use(VueAxios, axios).mount('#app')
+createApp(App)
+.use(store)
+.use(router)
+.use(vuetify)
+.use(VueAxios, axios)
+.use()
+.mount('#app')

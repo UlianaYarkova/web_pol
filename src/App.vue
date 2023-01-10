@@ -11,6 +11,15 @@
   </v-app>
 </template>
 
+<script>
+export default {
+  name: 'App',
+  mounted() {
+    this.$store.commit('getData');
+  },
+}
+</script>
+
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
