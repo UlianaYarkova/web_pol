@@ -1,74 +1,74 @@
 [
   {
-    "id": "63bdddd026e2a2783a479838",
+    "id": "1",
     "price": 3500,
     "title": "Услуги",
     "subtitle": "Маникюр",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "ullamco cupidatat ullamco",
-      "subtitle": "aliquip duis qui ullamco",
-      "description": "Aute commodo et consectetur aliqua voluptate nisi magna sit in voluptate. Laboris aliquip ipsum sint ut officia reprehenderit veniam enim commodo pariatur ex minim. Commodo veniam laborum labore consectetur anim aliquip dolore do ipsum."
+      "title": "Маникюр",
+      "subtitle": "Услуги лучших мастеров",
+      "description": "К вашим услугам: шлифовка крыльев (классический маникюр), рихтовка споттером (аппаратный маникюр) и установка жидких локеров (парафинотерапия)."
     }
   },
   {
-    "id": "63bdddd00452d0fa193176c8",
+    "id": "2",
     "price": 3500,
     "title": "Услуги",
     "subtitle": "Педикюр",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "quis enim incididunt",
-      "subtitle": "consequat cupidatat anim laboris",
-      "description": "Cillum eiusmod consequat eu reprehenderit excepteur sunt laborum ipsum aliquip sint. Ut deserunt non magna sint esse qui nostrud sit eu. Culpa consectetur enim nisi voluptate et in cillum."
+      "title": "Педикюр",
+      "subtitle": "Услуги лучших мастеров",
+      "description": "К вашим услугам: шлифовка крыльев, рихтовка споттером"
     }
   },
   {
-    "id": "63bdddd0e8394536350d4e24",
+    "id": "3",
     "price": 2500,
     "title": "Услуги",
     "subtitle": "Мейкап",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "est officia officia",
-      "subtitle": "laboris incididunt esse ad",
-      "description": "Anim exercitation ipsum deserunt labore excepteur velit qui qui sint ea ut ut ipsum. Eiusmod do Lorem labore minim veniam duis. Laborum laborum fugiat qui mollit minim cupidatat minim cupidatat."
+      "title": "Мейкап",
+      "subtitle": "Услуги лучших мастеров",
+      "description": ""
     }
   },
   {
-    "id": "63bdddd0357a965cb4288883",
+    "id": "4",
     "price": 5400,
     "title": "Услуги",
     "subtitle": "Прическа",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "cillum nulla mollit",
-      "subtitle": "quis deserunt nisi Lorem",
-      "description": "Nulla officia cillum exercitation minim ipsum nulla id aliquip mollit. Eiusmod veniam enim ut aute veniam duis. Deserunt laboris adipisicing consectetur dolore veniam pariatur deserunt ipsum aute ex aliqua nulla fugiat."
+      "title": "Прическа",
+      "subtitle": "Услуги лучших мастеров",
+      "description": "Впереди важное событие, на котором нужно быть самой красивой? Тогда мастера BeatyLounge сделают из вас конфетку!"
     }
   },
   {
-    "id": "63bdddd06a3f90ca3f4e36ad",
-    "price": 4000,
+    "id": "5",
+    "price": 1250,
     "title": "Услуги",
     "subtitle": "Чистка лица",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "enim commodo duis",
-      "subtitle": "sint in nulla ut",
-      "description": "Velit ad magna laborum nostrud non consectetur sunt. Aliquip ad ipsum magna Lorem anim id dolor adipisicing deserunt amet. Pariatur pariatur ut ea id cillum irure anim exercitation anim."
+      "title": "Чистка лица",
+      "subtitle": "Услуги лучших мастеров",
+      "description": "Ни одной помехи для вашего свидания. Наши профессионалы помогут вам справиться с любой проблемой"
     }
   },
   {
-    "id": "63bdddd095805148967504a9",
+    "id": "6",
     "price": 2000,
     "title": "Услуги",
     "subtitle": "Массаж",
     "description": "Прочитать подробнее",
     "about": {
-      "title": "dolor sunt non",
-      "subtitle": "ad occaecat laborum amet",
-      "description": "Nostrud culpa mollit duis ipsum excepteur eiusmod voluptate amet velit deserunt dolor enim occaecat. Qui et exercitation non ullamco eu laboris ex sint sit sint cillum culpa eu. Cupidatat qui sunt irure do enim dolore id sint ex."
+      "title": "Массаж",
+      "subtitle": "Услуги лучших мастеров",
+      "description": "Максимально вас расслабим после тяжелого рабочего дня"
     }
   }
 ]

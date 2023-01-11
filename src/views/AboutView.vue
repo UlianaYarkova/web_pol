@@ -8,16 +8,15 @@
       <v-list-item three-line>
         <div>
           <div class="text-overline mb-3">
-            {{ card.subtitle }}
+            {{ card.about.subtitle }}
           </div>
           <v-list-item-title class="text-h5 mb-3">
-            {{ card.title }}
+            {{ card.about.title }}
           </v-list-item-title>
           <v-list-item-subtitle class='mb-3'>
-            {{ card.description }}
+            {{ card.about.description }}
           </v-list-item-subtitle>
         </div>
-
         <v-list-item-avatar tile size="80" color="grey"></v-list-item-avatar>
       </v-list-item>
 
@@ -66,6 +65,7 @@ export default {
 .button {
   background-color: lightgreen;
   font-weight: bold;
+  margin: 0 auto;
 }
 
 .visually-hidden {
