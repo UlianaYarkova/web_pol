@@ -1,9 +1,10 @@
 [
   {
     "id": "63bdddd026e2a2783a479838",
-    "title": "pariatur enim do",
-    "subtitle": "proident laborum amet tempor",
-    "description": "Enim qui ea veniam qui enim fugiat eiusmod. Deserunt magna dolor id ea dolore elit ea et cillum eu. Minim consequat dolor laborum sit minim veniam fugiat ullamco cupidatat occaecat do sint.",
+    "price": 3500,
+    "title": "Услуги",
+    "subtitle": "Маникюр",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "ullamco cupidatat ullamco",
       "subtitle": "aliquip duis qui ullamco",
@@ -12,9 +13,10 @@
   },
   {
     "id": "63bdddd00452d0fa193176c8",
-    "title": "aliquip proident irure",
-    "subtitle": "aliquip non sunt culpa",
-    "description": "Sunt anim consequat ea aute elit proident eiusmod ex tempor mollit ex veniam. Reprehenderit aute non ea adipisicing velit et. Velit aute Lorem ipsum commodo laboris.",
+    "price": 3500,
+    "title": "Услуги",
+    "subtitle": "Педикюр",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "quis enim incididunt",
       "subtitle": "consequat cupidatat anim laboris",
@@ -23,9 +25,10 @@
   },
   {
     "id": "63bdddd0e8394536350d4e24",
-    "title": "pariatur nostrud nulla",
-    "subtitle": "elit amet amet elit",
-    "description": "Cillum sunt adipisicing adipisicing quis laboris Lorem aliqua esse sunt. Eu ex in adipisicing sunt consectetur exercitation culpa ut exercitation cupidatat irure in. Anim est consequat ea qui reprehenderit voluptate voluptate cupidatat laborum sunt culpa adipisicing nulla.",
+    "price": 2500,
+    "title": "Услуги",
+    "subtitle": "Мейкап",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "est officia officia",
       "subtitle": "laboris incididunt esse ad",
@@ -34,9 +37,10 @@
   },
   {
     "id": "63bdddd0357a965cb4288883",
-    "title": "labore sint deserunt",
-    "subtitle": "ea enim tempor excepteur",
-    "description": "Anim ut nulla nulla aute voluptate enim non nostrud id laboris quis consectetur incididunt et. Sunt mollit Lorem enim non adipisicing amet duis magna aliqua aliqua quis in. Duis do fugiat velit consequat voluptate et ea aliqua et culpa ea.",
+    "price": 5400,
+    "title": "Услуги",
+    "subtitle": "Прическа",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "cillum nulla mollit",
       "subtitle": "quis deserunt nisi Lorem",
@@ -45,9 +49,10 @@
   },
   {
     "id": "63bdddd06a3f90ca3f4e36ad",
-    "title": "ipsum excepteur proident",
-    "subtitle": "id exercitation duis minim",
-    "description": "Ea deserunt consectetur dolore pariatur consectetur exercitation cillum irure eiusmod in sunt amet. Consectetur eiusmod nisi sit velit voluptate sunt ex sit fugiat. Laborum cupidatat sint anim enim ea.",
+    "price": 4000,
+    "title": "Услуги",
+    "subtitle": "Чистка лица",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "enim commodo duis",
       "subtitle": "sint in nulla ut",
@@ -56,9 +61,10 @@
   },
   {
     "id": "63bdddd095805148967504a9",
-    "title": "ex enim eu",
-    "subtitle": "commodo commodo labore cupidatat",
-    "description": "Tempor tempor elit commodo excepteur eu consectetur ex. Consectetur fugiat aliquip consectetur adipisicing mollit dolore sunt deserunt id non id et elit qui. Cillum nostrud cillum excepteur est velit.",
+    "price": 2000,
+    "title": "Услуги",
+    "subtitle": "Массаж",
+    "description": "Прочитать подробнее",
     "about": {
       "title": "dolor sunt non",
       "subtitle": "ad occaecat laborum amet",

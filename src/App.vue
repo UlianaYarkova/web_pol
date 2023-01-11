@@ -3,6 +3,7 @@
     <v-layout>
       <v-app-bar color="black" density="compact">
         <v-app-bar-title>Beauty Lounge</v-app-bar-title>
+        <v-app-bar-title>Uliana Yarkova</v-app-bar-title>
       </v-app-bar>
       <v-main>
         <router-view />
@@ -25,7 +26,7 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: left;
+  text-align:center;
   color: #2c3e50;
 }
 
